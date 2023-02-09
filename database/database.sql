@@ -1,4 +1,4 @@
---
+-- Lab 7 Comment
 -- PostgreSQL database dump
 --
 
